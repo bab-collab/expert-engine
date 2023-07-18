@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background-image:linear-gradient(aqua,lightgreen,lightblue);
+    text-align: center;
+    color : blanchedalmond ;
+    text-shadow: 2px 5px green ;
+    font-family: Helvetica, sans-serif;
+    font-weight : bold;
+    
+    
+  }
+  button{
+    border-radius: 25%;
+    margin: 10px;
+    padding : 10px ;
+    background-color: yellowgreen;
+    color : red;
+    font-weight: bold;
+  }
+  p{width :50%;
+    border : 2px solid blue ;
+    color : rgb(226, 43, 64);
+    margin :auto;
+    padding: 10px;
+    font-size: 30px;
+    text-shadow:-5px -2px indigo;
+    box-shadow: -5px -5px yellow;
+  }
+  input{
+    background-color: lightgoldenrodyellow;
+    color :red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight : bold;
+    margin : 10px;
+    padding : 10px;
+  }
